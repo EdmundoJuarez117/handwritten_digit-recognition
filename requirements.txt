@@ -1,0 +1,5 @@
+Flask == 2.1.1
+tensorflow == 2.8.0
+opencv-python == 4.5.5.64
+scikit-learn == 1.0.2
+numpy == 1.22.3
